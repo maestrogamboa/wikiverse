@@ -27,5 +27,18 @@
     "jest": "^27.1.0",
     "parcel-bundler": "^1.12.5",
     "react-test-renderer": "^17.0.2"
-  }
+  },
+  "description": "A wikipedia clone built using React",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maestrogamboa/wikiverse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maestrogamboa/wikiverse/issues"
+  },
+  "homepage": "https://github.com/maestrogamboa/wikiverse#readme"
 }

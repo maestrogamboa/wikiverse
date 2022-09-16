@@ -8,3 +8,21 @@ main {
   padding: 1rem;
   height: 100vh;
 }
+
+.addArticle{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  padding: 10em;
+}
+#inputt{
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+input{
+  margin: .3em;
+  padding: .5em;
+}
